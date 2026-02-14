@@ -6,7 +6,7 @@ Notícias diárias para quem vive o mercado financeiro por dentro.
 
 ## O que é
 
-Todo dia às 8h (horário de Brasília), uma notícia relevante para o setor financeiro é publicada com contexto e impacto prático para o bancário.
+Todo dia, uma notícia relevante para o setor financeiro é publicada com contexto e impacto prático para o bancário.
 
 **Temas:** regulação, tecnologia bancária, crédito, contabilidade, economia, mercado de capitais.
 

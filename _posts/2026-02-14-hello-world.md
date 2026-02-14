@@ -6,7 +6,7 @@ categories: [meta]
 tags: [anúncio]
 ---
 
-A partir de hoje, todo dia às 8h você encontra aqui uma notícia que importa pra quem trabalha no setor financeiro. Regulação, tecnologia, crédito, contabilidade, economia — o que for relevante pro seu dia a dia de bancário.
+A partir de hoje, todo dia você encontra aqui uma notícia que importa pra quem trabalha no setor financeiro. Regulação, tecnologia, crédito, contabilidade, economia — o que for relevante pro seu dia a dia de bancário.
 
 Cada post traz o fato, o contexto e o impacto prático na sua rotina. Sem enrolação, sem clickbait. Uma leitura rápida pra começar o dia informado.
 
