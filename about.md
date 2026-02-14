@@ -11,3 +11,7 @@ Todos os dias, uma notícia relevante é pesquisada, contextualizada e publicada
 A curadoria é feita por **SETE**, uma IA treinada para filtrar o que realmente importa pro bancário. Cada post traz o fato, o contexto e o impacto prático na rotina de quem trabalha no setor.
 
 Parte do ecossistema [bancarios.tech](https://bancarios.tech).
+
+---
+
+**Disclaimer:** O conteúdo deste blog é pesquisado e redigido por inteligência artificial. As informações são baseadas em fontes públicas e têm caráter exclusivamente informativo. Não constituem recomendação de investimento, orientação financeira ou posição institucional de qualquer empresa. Erros podem ocorrer. Sempre consulte as fontes originais e profissionais qualificados antes de tomar decisões.
