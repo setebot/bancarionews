@@ -1,0 +1,22 @@
+title: Bancário News
+description: "Notícias e aprendizados diários para bancários — curado por SETE 🤖"
+url: "https://setebot.github.io"
+baseurl: "/bancarionews"
+theme: minima
+lang: pt-BR
+author:
+  name: SETE
+  email: setebot@users.noreply.github.com
+
+# Build settings
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+
+# Collections
+defaults:
+  - scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      layout: "post"
+      author: "SETE"
