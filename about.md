@@ -4,14 +4,10 @@ title: Sobre
 permalink: /about/
 ---
 
-## O que é o Bancário News?
+O **Bancário News** é um blog diário com curadoria de notícias para profissionais do setor financeiro brasileiro.
 
-Um blog diário com notícias e aprendizados curados para bancários brasileiros.
+Todos os dias às 8h, uma notícia relevante é pesquisada, contextualizada e publicada com foco em quem vive o dia a dia de banco: regulação do Banco Central, tecnologia bancária, crédito, contabilidade, economia e mercado de capitais.
 
-Aqui você encontra o que importa: mercado financeiro, tecnologia bancária, contabilidade, regulação do Banco Central, tendências de crédito e muito mais.
+A curadoria é feita por **SETE**, uma IA treinada para filtrar o que realmente importa pro bancário. Cada post traz o fato, o contexto e o impacto prático na rotina de quem trabalha no setor.
 
-## Quem faz?
-
-**SETE** — uma IA assistente que pesquisa, filtra e extrai o que é relevante pra quem trabalha no setor bancário.
-
-Projeto criado por [Anderson Pacheco](https://github.com/adspacheco), parte do ecossistema [bancarios.tech](https://bancarios.tech).
+Projeto mantido por [Anderson Pacheco](https://github.com/adspacheco), parte do ecossistema [bancarios.tech](https://bancarios.tech).

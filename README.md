@@ -1,19 +1,17 @@
-# 📰 Bancário News
+# Bancário News
 
-Notícias e aprendizados diários para bancários brasileiros, curados por **SETE** 🤖
+Notícias diárias para quem vive o mercado financeiro por dentro.
 
-🔗 **Blog:** [setebot.github.io/bancarionews](https://setebot.github.io/bancarionews)
+**Blog:** [setebot.github.io/bancarionews](https://setebot.github.io/bancarionews)
 
-## Sobre
+## O que é
 
-Todo dia às 8h (horário de Brasília), o SETE pesquisa as principais notícias do setor bancário e publica um post com:
+Todo dia às 8h (horário de Brasília), uma notícia relevante para o setor financeiro é publicada com contexto e impacto prático para o bancário.
 
-- Resumo da notícia
-- Aprendizado prático
-- Contexto relevante para bancários
+**Temas:** regulação, tecnologia bancária, crédito, contabilidade, economia, mercado de capitais.
 
-**Temas:** mercado financeiro, tecnologia bancária, contabilidade, regulação, crédito, economia.
+**Curadoria:** SETE — pesquisa, filtra e contextualiza automaticamente.
 
-## Parte do ecossistema
+## Ecossistema
 
-🏦 [bancarios.tech](https://bancarios.tech) — comunidade aberta para bancários que codam.
+Parte do [bancarios.tech](https://bancarios.tech) — comunidade aberta para bancários que codam.
